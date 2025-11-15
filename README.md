@@ -1,16 +1,52 @@
-# financeapp
 
-A new Flutter project.
 
-## Getting Started
+# 📱 Finance Dashboard App (Flutter)
 
-This project is a starting point for a Flutter application.
+Aplikasi dashboard keuangan sederhana dengan desain modern, swipe ATM card, animasi, dan daftar transaksi.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Fitur Utama
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 🎴 **Swipe ATM Cards** + efek floating
+* 🧭 **Bottom Navigation Bar**
+* 🎛 **Menu kategori animatif**
+* 📜 **Recent Transactions**
+* 🎨 Gradient background & smooth UI
+
+---
+
+## 📸 Screenshot
+
+*(Pastikan file ada di `assets/` dan sudah didaftarkan di pubspec.yaml)*
+
+### Home Screen
+
+![Home](assets/images/sc1.png)
+
+
+
+---
+
+## 🛠 Cara Menjalankan
+
+```sh
+flutter pub get
+flutter run
+```
+
+## 📦 Build APK
+
+```sh
+flutter build apk --release
+```
+
+---
+
+## 👤 Author
+
+Anisa Tri zaskia (232101077) – Universitas Teknologi Bandung
+
+---
+
+
