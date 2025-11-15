@@ -3,6 +3,7 @@
 # 📱 Finance Dashboard App (Flutter)
 
 Aplikasi dashboard keuangan sederhana dengan desain modern, swipe ATM card, animasi, dan daftar transaksi.
+dibuat untuk memenuhi tugas mata kuliah pemograman mobile
 
 ---
 
