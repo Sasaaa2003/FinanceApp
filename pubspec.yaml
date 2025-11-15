@@ -56,7 +56,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/pf1.jpg
+    - assets/images/sc1.png
 
   #   - images/a_dot_ham.jpeg
 
